@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Remindly</string>
+
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+    
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+    
+    <string name="no_reminders">Click on the plus button below to begin creating your reminders!</string>
+
+    <string name="licenses"><BIG><b>Design and modified by Group 02 LTU15</b></BIG> \n\n
+        <b> Member of the group:</b>\n\n
+
+        <b> Nguyễn Hải Anh - 20168619 </b>\n
+        <b> Nguyễn Kỳ Thông - 20168807 </b>\n
+        <b> Nguyễn Xuân Phú - 20168619 </b>\n\n
+
+        <b>Detail about the license placed <a href="https://bom.to/iMtktB">here</a></b>\n
+        <BIG>Click the link above to get more</BIG>
+    </string>
+
+</resources>
